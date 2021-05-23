@@ -231,7 +231,7 @@ four error (check code error)
 </tbody>
 </table>
 
-> ![HammingCode_1-1.png](https://github.com/jmszwzr/test/blob/master/images/sex-cow.png?raw=true "HammingCode_1-1.png")
+> ![HammingCode_1-1.png](https://Kingmeng-Stack.github.io/Blog/image/HammingCode_1-1.png)
 
 ### 由表格我们可以如下分析
  * 数据位的位置序号中所有为二的幂次方的位（编号1，2，4，8，等，即数据位位置序号的二进制表示中只有一个1）是校验位
