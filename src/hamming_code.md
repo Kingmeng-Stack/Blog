@@ -231,6 +231,9 @@ four error (check code error)
 </tbody>
 </table>
 
+
+> ![RUNOOB 图标](https://github.com/Kingmeng-Stack/Blog/blob/gh-pages/image/HammingCode_1-1.png)
+
 ### 由表格我们可以如下分析
  * 数据位的位置序号中所有为二的幂次方的位（编号1，2，4，8，等，即数据位位置序号的二进制表示中只有一个1）是校验位
  * 所有其它位置的数据位（数据位位置序号的二进制表示中至少2个是1）是数据位
