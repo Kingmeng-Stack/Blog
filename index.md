@@ -3,4 +3,5 @@
 You can click the [Main Site](https://www.kingmeng.dev) to read my blog
 
 * [Hamming Code](./src/hamming_code.md)
+* [wechat-dat2pic](./src/wechat-dat2pic.py)
 
